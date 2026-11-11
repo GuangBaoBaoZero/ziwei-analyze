@@ -1,0 +1,9 @@
+{
+  "name": "ziwei-analyze",
+  "version": "1.0.0",
+  "description": "紫微斗数排盘与命盘分析本地工具链（排盘引擎 + 白话知识库 + 检索/批产脚本 + 可选 DSH 面板插件）",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}

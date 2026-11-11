@@ -1,0 +1,4 @@
+{
+  "_comment": "engineDir/pansDir 未设置时用 bridge.mjs 内置默认值；此处键仅作显式覆盖用。",
+  "port": 9871
+}

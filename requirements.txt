@@ -1,0 +1,2 @@
+# ziwei-analyze 基础档：零第三方依赖（Python >= 3.8 标准库即可）
+# 语义向量检索为可选档，见 requirements-vec.txt
