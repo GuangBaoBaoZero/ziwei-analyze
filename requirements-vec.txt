@@ -1,0 +1,7 @@
+# ziwei-analyze 向量检索可选档
+# 使用 BAAI/bge-small-zh-v1.5 中文语义向量模型（sentence-transformers 首次运行自动下载，仅本地推理）
+faiss-cpu
+numpy
+sentence-transformers
+jieba
+rank-bm25

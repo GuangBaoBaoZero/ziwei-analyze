@@ -1,0 +1,4 @@
+# ziwei-analyze 基础档：核心链（排盘/检索/自检/预判队列）零第三方依赖（Python >= 3.8 标准库）
+# 收益对照环（auto_judge --csv / update_trading_ledger 台账 xlsx）需 openpyxl：
+openpyxl
+# 语义向量检索为可选档，见 requirements-vec.txt

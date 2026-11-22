@@ -1,0 +1,28 @@
+{
+  "name": "dsh-ziwei-panel",
+  "version": "0.2.0",
+  "description": "紫微斗数排盘面板：浏览器面板组件，引擎与数据由 ziwei-analyze 技能提供。",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  },
+  "scripts": {
+    "start": "node bin/bridge.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
